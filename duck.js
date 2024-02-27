@@ -1,4 +1,4 @@
-var logoText = "Rehena";
-var siteName = "Rehena";
-var bestLink = "https://braflipperstense.com/kcicst5mjj?key=577827ba75c0cedd7d1c2063b6307ae0";
+var logoText = "Hotty.com";
+var siteName = "Hotty.com";
+var bestLink = "https://www.profitablegatecpm.com/r64xd17f?key=aa2c748a0478dad676f3072ca5fb27be";
 document.title = "Click Here To watch";
